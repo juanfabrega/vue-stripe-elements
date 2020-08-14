@@ -8,7 +8,6 @@
     "prepublishOnly": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/juanfabrega/vue-stripe-elements.git"
@@ -20,7 +19,7 @@
     "payment"
   ],
   "author": {
-    "name": "juanfabrega",
+    "name": "juanfabrega"
   },
   "license": "MIT",
   "bugs": {
