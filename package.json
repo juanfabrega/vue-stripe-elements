@@ -1,6 +1,6 @@
 {
-  "name": "vue-stripe-elements-plus",
-  "version": "0.3.2",
+  "name": "@juanfabrega/vue-stripe-elements-plus",
+  "version": "0.3.3",
   "description": "Stripe Elements components for Vue",
   "main": "./dist/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fromatob/vue-stripe-elements.git"
+    "url": "git+https://github.com/juanfabrega/vue-stripe-elements.git"
   },
   "keywords": [
     "vue",
@@ -18,14 +18,13 @@
     "payment"
   ],
   "author": {
-    "name": "fromAtoB GmbH",
-    "url": "https://fromatob.com"
+    "name": "juanfabrega",
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fromatob/vue-stripe-elements/issues"
+    "url": "https://github.com/juanfabrega/vue-stripe-elements/issues"
   },
-  "homepage": "https://github.com/fromatob/vue-stripe-elements#readme",
+  "homepage": "https://github.com/juanfabrega/vue-stripe-elements#readme",
   "dependencies": {
     "lodash": "^4.17.11"
   },
